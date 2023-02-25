@@ -1,3 +1,5 @@
+THIS README IS WRONG - NEEDS UPDATE TO LESSON 8
+
 # Lesson 5 - Vscode setup and code quality
 
 ## Environment setup
